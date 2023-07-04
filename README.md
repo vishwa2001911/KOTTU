@@ -7,7 +7,7 @@ Kottu is an online food delivery app that connects customers with local restaura
 ## Features
 
 - Browse food items
-- View menus, ratings and reviews of kottu restaurants
+- View menus, ratings and reviews of kottu restaurant
 - Place orders and pay online with credit card or cash on delivery
 
 
